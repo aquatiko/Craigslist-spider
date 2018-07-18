@@ -1,5 +1,5 @@
-# Craiglist-spider
-A python spider to scrape jobs list and their details form craiglist.
+# Craigslist-spider
+A python spider to scrape jobs list and their details form craigslist.
 
 ## Usage
 
